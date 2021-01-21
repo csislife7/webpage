@@ -1,0 +1,16 @@
+<!DOCTYPE html> 
+<html> 
+ <head> 
+   <title>Cooking</title>
+ </head>
+ <body>   
+   <h1>Favorite Food to Cook</h1> 
+   <img src="" alt=""> <!-- src and alt are attributes. alt will be read to users with impaired vision -->
+   <p>
+     Welcome to my web page.  This
+     web page is a demonstration of
+     HTML.
+   </p>
+   <p>
+ </body>
+</html> 
